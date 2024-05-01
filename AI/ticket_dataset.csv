@@ -1,10 +1,10 @@
 Description,Category,Urgency,Sentiment
-My subscription payment failed.,Billing Inquiry,Low,Positive
-My subscription payment failed.,Billing Inquiry,Low,Negative
-The website is slow to load.,Billing Inquiry,Low,Neutral
+My subscription payment failed.,Issue,Medium,Neutral
+My subscription payment failed.,Issue,Medium,Neutral
+The website is slow to load.,Technical Issue,High,Neutral
 I'm unable to reset my password.,Feature Request,Low,Negative
-I'm not receiving email notifications from the platform.,Billing Inquiry,High,Neutral
-The website is slow to load.,Feature Request,Low,Negative
+I'm not receiving email notifications from the platform.,Feature Request,High,Neutral
+The website is slow to load.,Feature Request,High,Negative
 I'm not receiving email notifications from the platform.,Technical Issue,Medium,Negative
 My subscription payment failed.,Billing Inquiry,Low,Neutral
 The application crashes whenever I try to open it.,Technical Issue,Low,Positive
@@ -971,14 +971,14 @@ I'm experiencing issues with logging into my account.,Billing Inquiry,Low,Negati
 My subscription payment failed.,Technical Issue,High,Positive
 I'm experiencing issues with logging into my account.,Feature Request,Low,Positive
 My subscription payment failed.,Technical Issue,Low,Negative
-My subscription payment failed.,Feature Request,High,Positive
+My subscription payment failed.,Technical Issue,High,Positive
 I'm not receiving email notifications from the platform.,Billing Inquiry,Low,Neutral
 I'm unable to reset my password.,Technical Issue,High,Neutral
-My subscription payment failed.,Feature Request,Low,Neutral
+My subscription payment failed.,Technical Issue,Medium,Neutral
 I would like to suggest adding a new feature to the platform.,Feature Request,Low,Neutral
 My subscription payment failed.,Feature Request,Medium,Positive
-I'm satisfied with the service provided.,Technical Issue,Medium,Positive
-I'm satisfied with the service provided.,Technical Issue,Low,Positive
+I'm satisfied with the service provided.,Feedback,Low,Positive
+I'm satisfied with the service provided.,Feedback,Low,Positive
 The application crashes whenever I try to open it.,Billing Inquiry,Medium,Positive
 I'm unable to reset my password.,Technical Issue,Low,Positive
 The application crashes whenever I try to open it.,Feature Request,Medium,Positive
@@ -987,15 +987,15 @@ The website is slow to load.,Technical Issue,Medium,Negative
 I'm not receiving email notifications from the platform.,Technical Issue,High,Negative
 My subscription payment failed.,Billing Inquiry,Medium,Neutral
 I'm experiencing issues with logging into my account.,Technical Issue,Low,Neutral
-I'm not receiving email notifications from the platform.,Technical Issue,Medium,Positive
+I'm not receiving email notifications from the platform.,Technical Issue,Medium,Negative
 I would like to suggest adding a new feature to the platform.,Feature Request,Medium,Neutral
 I'm encountering errors when trying to checkout.,Technical Issue,High,Positive
 I'm not receiving email notifications from the platform.,Billing Inquiry,Medium,Negative
 I would like to suggest adding a new feature to the platform.,Technical Issue,Medium,Neutral
 The website is slow to load.,Feature Request,High,Positive
 I'm satisfied with the service provided.,Feature Request,Low,Negative
-I'm encountering errors when trying to checkout.,Billing Inquiry,Low,Neutral
-The application crashes whenever I try to open it.,Billing Inquiry,Low,Neutral
+I'm encountering errors when trying to checkout.,Technical Issue,Medium,Neutral
+The application crashes whenever I try to open it.,Issues,Medium,Neutral
 I'm experiencing issues with logging into my account.,Technical Issue,Medium,Neutral
-I'm encountering errors when trying to checkout.,Feature Request,Medium,Positive
-I'm satisfied with the service provided.,Billing Inquiry,High,Negative
+I'm encountering errors when trying to checkout.,Issues,Medium,Negative
+I'm satisfied with the service provided.,Feedback,Low,Positive
